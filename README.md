@@ -1,8 +1,8 @@
-# Hit & Run Decompiler
+# Hit & Run Recompiler
 
-The landing page of the Hit & Run Decompiler: The Simpsons: Hit & Run from your own PS2 disc, as a native PSP game.
+The landing page of the Hit & Run Recompiler: The Simpsons: Hit & Run from your own PS2 disc, as a native PSP game.
 
-Live: https://robvagin.github.io/hit-and-run-decompiler/
+Live: https://robvagin.github.io/hit-and-run-recompiler/
 
 The engine and the builder: https://github.com/robvagin/shar-psp-engine
 
